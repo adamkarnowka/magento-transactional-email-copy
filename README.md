@@ -1,0 +1,1 @@
+# magento-transactional-email-copy

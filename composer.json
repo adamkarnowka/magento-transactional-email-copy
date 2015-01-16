@@ -1,5 +1,5 @@
 {
-    "name": "creativestyle/email-preview",
+    "name": "adamkarnowka/transactional-email-copy",
     "type": "magento-module",
     "description": "Adds mass-action column in transactional e-mails grid allowing to mass-copy / delete transactional e-mail templates.",
     "keywords":["magento","transactional emails", "e-mail", "massaction"],

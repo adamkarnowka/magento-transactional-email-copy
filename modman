@@ -1,0 +1,4 @@
+app/code/local/Creativestyle/TransactionalEmailCopy   app/code/local/Creativestyle/TransactionalEmailCopy
+app/locale/en_US/Creativestyle_TransactionalEmailCopy.csv     app/locale/en_US/Creativestyle_TransactionalEmailCopy.csv
+skin/adminhtml/default/default/images/creativestyle_transactionalemailcopy    skin/adminhtml/default/default/images/creativestyle_transactionalemailcopy
+app/etc/modules/Creativestyle_TransactionalEmailCopy.xml app/etc/modules/Creativestyle_TransactionalEmailCopy.xml

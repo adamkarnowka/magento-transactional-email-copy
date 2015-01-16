@@ -1,0 +1,19 @@
+{
+    "name": "creativestyle/email-preview",
+    "type": "magento-module",
+    "description": "Adds mass-action column in transactional e-mails grid allowing to mass-copy / delete transactional e-mail templates.",
+    "keywords":["magento","transactional emails", "e-mail", "massaction"],
+    "homepage":"http://www.creativestyle.de/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Karnowka",
+            "email": "adam.karnowka@creativestyle.pl",
+            "homepage": "http://www.creativestyle.de",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

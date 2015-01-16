@@ -1,0 +1,42 @@
+<config>
+    <tabs>
+        <creativestyle translate="label" module="creativestyle_transactionalemailcopy">
+            <label>Creativestyle</label>
+            <sort_order>100</sort_order>
+        </creativestyle>
+    </tabs>
+    <sections>
+        <transactionalemailcopy>
+            <label>Mass Transactional</label>
+            <tab>creativestyle</tab>
+            <frontend_type>text</frontend_type>
+            <sort_order>150</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+
+                <objects translate="label">
+                    <label>Mass transactional copy and delete</label>
+                    <frontend_type>text</frontend_type>
+                    <expanded>1</expanded>
+                    <sort_order>1</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <info translate="label">
+                            <label></label>
+                            <frontend_type>text</frontend_type>
+                            <frontend_model>creativestyle_transactionalemailcopy/adminhtml_system_config_field_infoblock</frontend_model>
+                            <sort_order>-1</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </info>
+                    </fields>
+                </objects>
+            </groups>
+        </transactionalemailcopy>
+    </sections>
+</config>

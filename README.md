@@ -1,4 +1,4 @@
-# Magento - Transactional e-mails-copy
+# Magento - Transactional e-mails copy
 
 This simple extension adds massaction column with 2 extra actions in transactional e-mails grid:
 
